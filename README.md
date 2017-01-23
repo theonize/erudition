@@ -21,7 +21,7 @@ It is hoped that these materials will facilitate discussions and explorations of
 - [Information](https://github.com/doulos-software/erudition/wiki/Information)
 - [Ontology](https://github.com/doulos-software/erudition/wiki/Ontology)
 - [Philology](https://github.com/doulos-software/erudition/wiki/Philology)
-- [Diessemenation](https://github.com/doulos-software/erudition/wiki/Diessemenation)
+- [Dissemination](https://github.com/doulos-software/erudition/wiki/Dissemination)
 - [Colophon](https://github.com/doulos-software/erudition/wiki/Colophon) (the creators emblem)
 - [Rebellion](https://github.com/doulos-software/erudition/wiki/Rebellion) (changing sides)
 - [Ethereality](https://github.com/doulos-software/erudition/wiki/Ethereality)
