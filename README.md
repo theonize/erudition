@@ -1,14 +1,17 @@
 # erudition
-The pursuit of theological information science.
+The pursuit of truth in theology and information.
 
 
 ## Premise
+Information is only distinguishable from noise in that something has attributed meaning the order of the stuff.
+The fact that two independent, autonomous beings can communicate depends on that information - and the agreement on that fact that it is information.
+Ingestion of information requires on an organon - a system which makes sense of information.
+
+So, what do we make of these collections of scribblings, which carry meaning at various levels, but has to have an inhrerent basis (i.e. information) to be understood?
+
 To computer nerds _zero_ is the first number, _one_ is the second, et cetera...
 The number of atoms in the world exceeds the amount of information every produced by mankind by nearly 6 orders of magnitude...
 Explanations of the origin of biological life, or even spiritual life, means nothing because it does not explain the origin of the information necessary to form that life...
-
-These thoughts are presented to stimulate the mind toward the profound nature of information.
-The fact that two independent, autonomous beings can communicate depends on information, which depends on an organon - a system which makes information possible and meaningful.
 
 
 ## Goals
