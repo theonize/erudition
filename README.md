@@ -29,7 +29,7 @@ It is hoped that these materials will facilitate discussions and explorations of
 
 
 ## Topics
-- [Critical Thinking](https://github.com/doulos-software/erudition/wiki/CriticalThinking)
+- [Critical Thinking](thinking)
 - [Information](https://github.com/doulos-software/erudition/wiki/Information)
 - [Ontology](https://github.com/doulos-software/erudition/wiki/Ontology)
 - [Philology](https://github.com/doulos-software/erudition/wiki/Philology)
